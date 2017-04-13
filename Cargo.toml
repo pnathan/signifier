@@ -1,0 +1,11 @@
+[package]
+name = "signifier"
+version = "1.0.0"
+authors = ["Paul Nathan <paul@nathan.house>"]
+
+[dependencies]
+rusted_cypher = "1.0.0"
+regex = "0.1.41"
+log = "0.3.2"
+env_logger = "0.3"
+flame = "0.1.8"
